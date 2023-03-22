@@ -19,6 +19,9 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
+      },
+      "splash":{
+        "backgroundColor": "#ffffff"
       }
     },
     "web": {
